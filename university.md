@@ -3,7 +3,7 @@
 ## department:
 - id: BIGINT PRIMARYKEY (NOTNULL, AUTOINCREMENTS, UNIQUE)
 - name: VARCHAR(255) NOTNULL
-- ?courses? 1
+- ?degree_courses? 1
 
 ## degree_course:
 - id: BIGINT PRIMARYKEY (NOTNULL, AUTOINCREMENTS, UNIQUE)
